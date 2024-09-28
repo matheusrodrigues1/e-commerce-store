@@ -10,6 +10,7 @@ import {
   Tooltip,
   Legend,
   ResponsiveContainer,
+  LineChart,
 } from "recharts";
 
 const AnalyticsTab = () => {
