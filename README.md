@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248&color=000000" alt="mongodb" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" alt="tailwindcss" />
 
-[Acesse o link do projeto aqui!](https://e-commerce-store-mwtk.onrender.com/)
+<a href="https://e-commerce-store-mwtk.onrender.com/" target="_blank">Acesse o link do projeto aqui!</a>
 
 Sobre este projeto:
 
@@ -31,7 +31,6 @@ Sobre este projeto:
 - 🔒 Segurança
 - 🛡️ Proteção de Dados
 - 🚀 Cache com Redis
-- ⌛ E muito mais...
 
 ## Autor
 
