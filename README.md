@@ -34,14 +34,18 @@ Sobre este projeto:
 
 ## Autor
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div>
-        ✉️: <a href="mailto:carlostech873@gmail.com">Email</a><br>
-        📄: <a href="https://drive.google.com/file/d/1Jfn9RAqFR3YaQbL8j_lJA0z8HHlLI3Xq/view?pli=1">Currículo</a><br>
-        💼: <a href="https://www.linkedin.com/in/matheus-rodrigues-1a1899231/">Linkedin</a><br>
-        📸: <a href="https://www.instagram.com/math.eusrrodrigues/">Instagram</a>
-    </div>
-    <img src="./frontend/public/02.jpg" alt="Descrição da imagem" style="margin-left: 20px; width: 100px; height: auto;"/>
-</div>
+<table>
+    <tr>
+        <td>
+            ✉️: <a href="mailto:carlostech873@gmail.com">Email</a><br>
+            📄: <a href="https://drive.google.com/file/d/1Jfn9RAqFR3YaQbL8j_lJA0z8HHlLI3Xq/view?pli=1">Currículo</a><br>
+            💼: <a href="https://www.linkedin.com/in/matheus-rodrigues-1a1899231/">Linkedin</a><br>
+            📸: <a href="https://www.instagram.com/math.eusrrodrigues/">Instagram</a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td> 
+        <td style="text-align: center;">
+            <img src="./frontend/public/02.jpg" alt="Descrição da imagem" style="width: 100px; height: auto;"/>                
+        </td>
+    </tr>
+</table>
 
 ### 🚀
